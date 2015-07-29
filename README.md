@@ -19,7 +19,6 @@ thefuck Package for [Wahoo][wahoo].
 $ wa g thefuck
 ```
 
-
 ## Usage
 
 ```fish
@@ -28,14 +27,14 @@ $ fuck
 
 # License
 
-[MIT][mit] © [{{USER}}][author] et [al][contributors] :heart:
+[MIT][mit] © [Tom Hensel][author] et [al][contributors] :heart:
 
 
 [mit]:            http://opensource.org/licenses/MIT
-[author]:         http://github.com/{{USER}}
-[contributors]:   https://github.com/{{USER}}/thefuck/graphs/contributors
+[author]:         http://github.com/gretel
+[contributors]:   https://github.com/wa/pkg-thefuck/graphs/contributors
 [wahoo]:          https://www.github.com/fish-shell/wahoo
 [wahoo-badge]:    https://img.shields.io/badge/Wahoo-Framework-FF2848.svg?style=flat-square
 [license-badge]:  https://img.shields.io/badge/license-MIT-444444.svg?style=flat-square
-[travis-logo]:    http://img.shields.io/travis/{{USER}}/thefuck.svg?style=flat-square
-[travis]:         https://travis-ci.org/{{USER}}/thefuck
+[travis-logo]:    http://img.shields.io/travis/wa/pkg-thefuck.svg?style=flat-square
+[travis]:         https://travis-ci.org/gretel/pkg-thefuck
