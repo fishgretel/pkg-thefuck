@@ -5,9 +5,9 @@
 </div>
 <br>
 
-Magnificent [app](https://github.com/nvbn/thefuck) which corrects your previous console command.
-
 > thefuck Package for [Wahoo][wahoo].
+
+Magnificent [app](https://github.com/nvbn/thefuck) which corrects your previous console command.
 
 ![][wahoo-badge]
 [![][travis-logo]][travis]
