@@ -18,6 +18,7 @@ Magnificent [app](https://github.com/nvbn/thefuck) which corrects your previous 
 ```fish
 $ wa g thefuck
 ```
+> *[Install The Fuck](https://github.com/nvbn/thefuck/#requirements) first*
 
 ## Usage
 
